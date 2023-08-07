@@ -1,0 +1,14 @@
+total 48
+drwxr-xr-x 2 eugene eugene 4096 Aug  8 01:07 .
+drwxr-xr-x 6 eugene eugene 4096 Aug  8 00:48 ..
+-rwxr--r-- 1 eugene eugene   30 Aug  8 00:51 0-hello_world
+-rwxr--r-- 1 eugene eugene   30 Aug  8 00:54 1-confused_smiley
+-rwxr--r-- 1 eugene eugene   28 Aug  8 00:55 2-hellofile
+-rwxr--r-- 1 eugene eugene   39 Aug  8 00:56 3-twofiles
+-rwxr--r-- 1 eugene eugene   29 Aug  8 00:58 4-lastlines
+-rwxr--r-- 1 eugene eugene   29 Aug  8 00:59 5-firstlines
+-rwxr--r-- 1 eugene eugene   26 Aug  8 01:01 6-third_line
+-rwxr--r-- 1 eugene eugene   98 Aug  8 01:05 7-file
+-rwxr--r-- 1 eugene eugene   36 Aug  8 01:07 8-cwd_state
+-rw-r--r-- 1 eugene eugene   40 Aug  8 01:05 \*\\'"Best
+-rw-r--r-- 1 eugene eugene    0 Aug  8 01:07 ls_cwd_content
